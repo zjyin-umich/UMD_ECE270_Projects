@@ -1,0 +1,50 @@
+Avenged Sevenfold,Hail to the King,2013,Metal,4.0,Nathan Ozog,http://is1.mzstatic.com/image/thumb/Music4/v4/6f/10/ba/6f10ba0d-d62e-673c-ff28-92d089fe80b9/source/100x100bb.jpg
+Red Hot Chili Peppers,Californication,1999,Rock,4.5,Nathan Ozog,http://is5.mzstatic.com/image/thumb/Music1/v4/38/7b/2f/387b2f91-0465-560b-e57b-0576f69511d3/source/100x100bb.jpg
+Eminem,Curtain Call,2005,Rap,3.5,Nathan Ozog,http://is4.mzstatic.com/image/thumb/Music1/v4/8a/0e/6b/8a0e6b78-e353-1728-2183-653bd2158efe/source/100x100bb.jpg
+Eagles,Hotel California,1976,Rock,5.0,Nathan Ozog,http://is4.mzstatic.com/image/thumb/Music/v4/10/00/d2/1000d247-16b8-54a4-7a87-3401da673f86/source/100x100bb.jpg
+Childish Gambino,Camp,2011,Rap,4.5,Nathan Ozog,http://is4.mzstatic.com/image/thumb/Music/v4/af/09/56/af095617-cbeb-6abf-4087-fbb54d117426/source/100x100bb.jpg
+Zack Hemsey,Redemption,2009,Orchestral Pop,4.3,Jeff Yin,http://is1.mzstatic.com/image/thumb/Music/v4/1b/f1/0e/1bf10e2f-2704-fd04-e4e1-ee76017eda22/source/100x100bb.jpg
+Zack Hemsey,Vengeance,2009,Orchestral Pop,4.7,Jeff Yin,http://is1.mzstatic.com/image/thumb/Music/v4/1b/f1/0e/1bf10e2f-2704-fd04-e4e1-ee76017eda22/source/100x1000bb.jpg
+Zack Hemsey,The Way,2009,Orchestral Pop,4.9,Jeff Yin,http://is1.mzstatic.com/image/thumb/Music/v4/1b/f1/0e/1bf10e2f-2704-fd04-e4e1-ee76017eda22/source/100x100bb.jpg
+Michael Giacchino,The Imperial Suite,2017,Classical,4.8,Jeff Yin,http://is5.mzstatic.com/image/thumb/Music122/v4/12/68/07/126807d5-f76f-16fc-18cd-57273606bdc4/source/100x100bb.jpg
+Michael Giacchino,Star Dust,2017,Classical,4.8,Jeff Yin,http://is5.mzstatic.com/image/thumb/Music122/v4/12/68/07/126807d5-f76f-16fc-18cd-57273606bdc4/source/100x100bb.jpg
+Alessia Cara,Know-It-All,2015,R&B,4.7,Khurram Rehman,http://is4.mzstatic.com/image/thumb/Music6/v4/0d/8d/b7/0d8db776-6d70-2e08-1976-03e71d9d4c0f/source/100x100bb.jpg
+Kanye West,Graduation,2007,Hip Hop,4.3,Khurram Rehman,http://is3.mzstatic.com/image/thumb/Music/v4/63/21/74/6321742c-7a33-06e3-76ef-2a85659844eb/source/100x100bb.jpg
+Blackbear,Digital Druglord,2017,R&B,4.8,Khurram Rehman,http://is3.mzstatic.com/image/thumb/Music127/v4/cb/9a/58/cb9a587a-9aa5-32b7-86af-70a38c1e7691/source/100x100bb.jpg
+Ashes Remain,What I've Become,2011,Rock,4.3,Khurram Rehman,http://is4.mzstatic.com/image/thumb/Music/v4/5f/c7/73/5fc773ba-49af-636a-3278-7685654be4b9/source/100x100bb.jpg
+Skillet,Awake,2009,Rock,4.3,Khurram Rehman,http://is5.mzstatic.com/image/thumb/Music4/v4/7e/0d/de/7e0dde7d-cd3d-d844-36b0-4d1963687eba/source/100x100bb.jpg
+Bastille,Wild World,2016,Indie rock,5.0,Shawn Leones,http://is4.mzstatic.com/image/thumb/Music18/v4/14/86/a3/1486a39a-3e37-c60a-39af-b8d700f89277/source/100x100bb.jpg
+Awolnation,Run,2015,Alternative,4,Shawn Leones,http://is4.mzstatic.com/image/thumb/Music3/v4/2c/be/c3/2cbec3ce-4482-baa6-b3e9-252ac8e6a03f/source/100x100bb.jpg
+Rise Against,The Sufferer & the Witness,2006,Punk Rock,4.5,Shawn Leones,http://is1.mzstatic.com/image/thumb/Music6/v4/49/ea/58/49ea5816-4527-ffd4-bd3c-a19ef567d230/source/100x100bb.jpg
+Imgaine Dragons,Night Visions,2012,Alternative,4,Shawn Leones,http://is2.mzstatic.com/image/thumb/Music/v4/77/01/1c/77011c4b-63a8-ef20-f3c0-2a20bae39a1e/source/100x100bb.jpg
+Weezer,Green Album,2001,Alternative,4.1,Shawn Leones,http://is4.mzstatic.com/image/thumb/Music20/v4/a4/03/ed/a403ed23-c576-d26f-81ae-ed9d6160fbf5/source/100x100bb.jpg
+Katy Perry,Firework,2010,Pop,3,Pavitra Gangapur,http://is2.mzstatic.com/image/thumb/Music/v4/7b/89/f6/7b89f61f-fe83-f5bc-84e6-bac2b8980681/source/100x100bb.jpg
+Katy Perry,E.T.,2010,Pop,3,Pavitra Gangapur,http://is2.mzstatic.com/image/thumb/Music/v4/7b/89/f6/7b89f61f-fe83-f5bc-84e6-bac2b8980681/source/100x100bb.jpg
+Katy Perry,Last Friday Night (T.G.I.F),2010,Pop,3,Pavitra Gangapur,http://is2.mzstatic.com/image/thumb/Music/v4/7b/89/f6/7b89f61f-fe83-f5bc-84e6-bac2b8980681/source/100x100bb.jpg
+Taylor Swift,Back To December,2010,Country,4,Pavitra Gangapur,http://is1.mzstatic.com/image/thumb/Music/v4/9d/1d/69/9d1d69ef-712c-cd3d-60af-f23710dfb480/source/100x100bb.jpg
+Taylor Swift,Begin Again,2012,Country,3.5,Pavitra Gangapur,http://is1.mzstatic.com/image/thumb/Music/v4/11/b7/3f/11b73fb0-46af-42b5-111a-6bce1815562f/source/100x100bb.jpg
+Radiohead,OK Computer,1997,Alternative Rock,5.0,Jean Masongsong,http://is1.mzstatic.com/image/thumb/Music69/v4/4e/b8/ba/4eb8ba96-6ee2-8a60-f012-a7a61a4fe097/source/100x100bb.jpg
+Weezer,Green Album,2001,Alternative Rock,3.7.,Jean Masongsong,http://is4.mzstatic.com/image/thumb/Music20/v4/a4/03/ed/a403ed23-c576-d26f-81ae-ed9d6160fbf5/source/100x100bb.jpg
+Kendrick Lamar,DAMN,2017,Hip Hop,5.0,Jean Masongsong,http://is4.mzstatic.com/image/thumb/Music111/v4/56/46/3f/56463f62-0d8d-3595-368b-38a995f10e36/source/100x100bb.jpg
+Led Zeppelin,Led Zeppelin III,1969,Hard Rock,3.5,Jean Masongsong,http://is1.mzstatic.com/image/thumb/Music1/v4/12/42/c2/1242c220-a381-3f9f-f494-e5a6e6b9b1b8/source/100x100bb.jpg
+Miles Davis,Kind of Blue,1959,Modal Jazz,5.0,Jean Masongsong,http://is2.mzstatic.com/image/thumb/Music/v4/f3/d5/eb/f3d5eb6b-34f6-69db-1b2c-477c46ee7662/source/100x100bb.jpg
+Imagine Dragons,Evolve,2017,Alternative,4.0,David Cutting,http://is4.mzstatic.com/image/thumb/Music117/v4/2c/6b/cc/2c6bcc08-8a7a-dd89-d344-4e649f2a1bf8/source/100x100bb.jpg
+Eminem,The Marshall Mathers LP 2,2013,Rap,4.0,David Cutting,http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/100x100bb.jpg
+The Weeknd,Beauty Behind The Madness,2015,R&B,3.5,David Cutting,http://is3.mzstatic.com/image/thumb/Music1/v4/27/9b/5e/279b5e45-e590-c661-c198-3242a6f76f62/source/100x100bb.jpg
+Kendrick Lamar,DAMN.,2017,Hip Hop,2.0,David Cutting,http://is4.mzstatic.com/image/thumb/Music111/v4/56/46/3f/56463f62-0d8d-3595-368b-38a995f10e36/source/100x100bb.jpg
+Arctic Monkeys,AM,2013,Rock,4.0,David Cutting,http://is3.mzstatic.com/image/thumb/Music/v4/d7/ad/82/d7ad8214-a767-d275-8a20-f7359e3ac65d/source/100x100bb.jpg
+CeCe Winans,Alabaster Box,1999,R&B,4.5,Jenny Juterbock,http://is3.mzstatic.com/image/thumb/Music6/v4/01/2a/3a/012a3a87-76f4-71b3-8deb-6eb9f385e199/source/100x100bb.jpg
+Kongos,Lunatic,2012,Alternative Rock,4.5,Jenny Juterbock,http://is1.mzstatic.com/image/thumb/Music4/v4/fb/a5/56/fba5564e-e94e-0f33-25b0-3234949202d2/source/100x100bb.jpg
+Prince,Purple Rain,1984,Rock,5.0,Jenny Juterbock,http://is3.mzstatic.com/image/thumb/Music/v4/b3/b5/b9/b3b5b92e-4863-3f13-ef7b-19ee6a23836c/source/100x100bb.jpg
+Queen,The Platinum Collection,2000,Rock,5.0,Jenny Juterbock,http://is3.mzstatic.com/image/thumb/Music1/v4/94/92/a3/9492a374-e6e3-8e92-0630-a5761070b0f7/source/100x100bb.jpg
+Earth Wind & Fire,Earth Wind & Fire: Greatest Hits,1998,R&B,5.0,Jenny Juterbock,http://is2.mzstatic.com/image/thumb/Music/v4/d5/94/f0/d594f0cb-db77-7658-a3e1-09a5d38904e6/source/100x100bb.jpg
+Adele,Rolling in the deep,2011,Pop,4.2,Ay Ji Sebirka,http://is2.mzstatic.com/image/thumb/Music/v4/2f/59/91/2f59913e-e1f9-5757-02c6-ff6afd9baad5/source/100x100bb.jpg
+Adele,Hello,2015,Pop,4.4,Ay Ji Sebirka,http://is4.mzstatic.com/image/thumb/Music/v4/cf/7e/47/cf7e47a8-bb18-9156-43d0-7591d0e0855e/source/100x100bb.jpg
+Adele,Set fire to the rain,2011,pop,5,Ay Ji Sebirka,http://is4.mzstatic.com/image/thumb/Music/v4/cf/7e/47/cf7e47a8-bb18-9156-43d0-7591d0e0855e/source/100x100bb.jpg
+Pharrell Williams,Happy,2013,pop,4.5,Ay Ji Sebirka,http://is2.mzstatic.com/image/thumb/Music5/v4/6e/df/60/6edf6088-f81a-89fa-7ffc-eac5d7a601a0/source/100x100bb.jpg
+Brono Mars,The lazy song,2011,pop,4.1,Ay Ji Sebirka,http://is1.mzstatic.com/image/thumb/Music/v4/cb/9c/f0/cb9cf0ce-f92f-0bec-b115-e0cbb11dca6b/source/100x100bb.jpg
+Caravan Palace,Caravan Palace,2008,Dance/Electronic,3.9,Chris Turnbull,http://is5.mzstatic.com/image/thumb/Music/v4/bd/27/ee/bd27eea2-d573-0170-b2ce-3a2f88d6e790/source/100x100bb.jpg
+Ludovico Einaudi,Divenire,2006,Contemporary Classical Music,4.5,Chris Turnbull,http://is2.mzstatic.com/image/thumb/Music/v4/0d/aa/59/0daa594d-caaf-495e-d6f6-c9298a6d46fc/source/100x100bb.jpg
+Green Day,American Idiot,2004,Alternative Rock,4.4,Chris Turnbull,http://is2.mzstatic.com/image/thumb/Music/v4/dd/39/7a/dd397a2a-21b7-be2f-53f0-c727bd1441c3/source/100x100bb.jpg
+Rush,The Spirit of Radio: Greatest Hits 1974-1987,2003,Hard Rock,5,Chris Turnbull,http://is5.mzstatic.com/image/thumb/Music2/v4/ee/d8/36/eed836f8-33ba-068b-78b4-8d7b170b0542/source/100x100bb.jpg
+The Beatles,Abbey Road,1969,Rock Music,4.7,Chris Turnbull,http://is2.mzstatic.com/image/thumb/Music/v4/40/d0/29/40d029b5-4c32-53d2-69d1-ea04a513c345/source/100x100bb.jpg
